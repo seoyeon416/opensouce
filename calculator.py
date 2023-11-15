@@ -1,5 +1,5 @@
-#Calculator
-def add(a,b);
+#My Calculator
+def add(a, b);
     return a+b;
 
 def sub(a, b);
